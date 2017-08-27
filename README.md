@@ -9,8 +9,7 @@ Note that clang-format 3.4 or newer is required.
 
 clang-format.el is available on [MELPA][]:
 
-    M-x package-install turnip
-
+    M-x package-install clang-format
 or can be obtained from [upstream][], where the version originally contained in this
 repository has been moved to (see [#2][]).
 
